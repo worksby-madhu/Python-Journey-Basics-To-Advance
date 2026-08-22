@@ -1,7 +1,9 @@
 #string concatenation using +
 print("Hello"+"coder")
+a='best'
+print('hello '+a,'coder')#hello best coder
 print('Hello'+""+'coder')
-print('Hello'+' '+'coder')
+print('Hello'+' '+'coder')#Hello coder
 #exercise
 print("String Manipulation Exercise")
 print('String Concatenation is done with "+" sign')
@@ -14,3 +16,7 @@ String Concatenation is done with "+" sign
 e.g print("Hello" + "coder")""")
 #lets print using concatenation with + sign and for new line we use \n inside the quotes
 print('String Manipulation Exercise'+'\nString COncatenation is done with "+" sign'+'\ne.g print("Hello"+"coder")')
+
+#string repetition
+print("Python"*3)
+print("\nPython"*3)
