@@ -1,8 +1,13 @@
-a=10
-b=10
+list1 = [10, 20, 30]
+list2 = [10, 20, 30]
+list3 = list1
 
-print(a is b)  #True
-'''it returns true not because having same value but because both variables refer to the same object(same memory location or same unique id)'''
-print(id(b))  #140721404540104
-print(a==b)   #True
-'''it returns true because having same values to both variables a and b'''
+print(list1 is list2)       # False Same object / same identity
+print(list1 is list3)       # True Same value / content
+
+print(list1 is not list2)   # True
+print(list1 is not list3)   # False
+
+print(id(list1))    #2087426285760
+print(id(list2))    #2087426434752
+print(id(list3))    #2087426285760
