@@ -1,4 +1,3 @@
-#exercise
 print("'First Program - python print Function'")#outer double quote inner single quote
 print('It is declared like this:') 
 print('print("what to print")')#outer single quote inner double quote
