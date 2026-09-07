@@ -10,4 +10,4 @@ print(type(a)) #<class 'int'>
 print(type(b)) #<class 'str'>
 print(len(b)) #4
 #print("Ur name is having "+len(vmls)+" characters") #TypeError: can only concatenate str (not "int") to str
-print("Ur name is having "+str(vmls)+" characters") #Ur name is having 8 characters
+print("Ur name is having "+str(vmls)+" characters") #Ur name is having 8 characters 
