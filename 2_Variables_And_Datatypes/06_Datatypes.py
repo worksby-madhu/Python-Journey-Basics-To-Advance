@@ -24,6 +24,7 @@ std={
     "name": "Ana",
     "age": 20
 }
+
 print(var_1) # 3
 print(var_1+1) # 4, int and int can be concatenated
 print(type(var_1 )) #<class 'int'>
