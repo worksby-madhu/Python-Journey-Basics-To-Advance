@@ -13,4 +13,6 @@ print((b>4)==a or e)
 print((b>4)==a and e)
 print(d<b)
 
-#
+# not returns the opposite boolean value
+# and returns True when both conditions are True
+# or returns True when at least one condition is True
