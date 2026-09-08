@@ -8,5 +8,4 @@ print((x-1)==20)
 print(x==y)
 print((x-2)!=(y-1))
 print((x-2)==(y-1))
-
 #returns true or false
