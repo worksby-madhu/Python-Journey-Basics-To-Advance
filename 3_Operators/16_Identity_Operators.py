@@ -15,7 +15,6 @@ print(id(list3))            # 2087426285760
 # Integer
 a = 10
 b = 10
-
 print(a is b)               # True → Same object, because Python reuses small integer objects
 print(a is not b)           # False
 
