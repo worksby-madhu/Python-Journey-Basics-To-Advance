@@ -1,4 +1,4 @@
-''''Arithmetic operators'''
+''''Arithmetic operators''''
 print(5+2)
 print(33-22)
 print(4/2)
