@@ -5,4 +5,4 @@ b=52*years_left
 c=12*years_left
 #print("You have",a,"days,",b,'weeks and',c,'months left.' )
 print(f"You have {a} days, {b} weeks and {c} months left.")
-# Using f-strings instead of regular print statements with commas
+# Using f-strings instead of regular print statements with commas 
