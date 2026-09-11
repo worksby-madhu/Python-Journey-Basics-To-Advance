@@ -18,5 +18,3 @@ print(f"Age          : {age}")
 print(f"CGPA         : {cgpa:.2f}")
 print(f"Next Year Age: {age + 1}")
 print(f"Eligible to Vote? {age >= 18}")
-
-
