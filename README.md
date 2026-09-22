@@ -1,4 +1,4 @@
-# Python Journey: Basics to Advanced 🐍
+# Python Journey: Basics to Advanced 
 
 Hi! I'm currently learning **Python from scratch** and using this repository to document my learning journey through practice programs, exercises, and mini tasks.
 
@@ -76,4 +76,4 @@ I will continue updating this repository as I learn new Python concepts and buil
 
 ---
 
-⭐ **This repository is a record of my Python learning journey — from basics to advanced.**
+**This repository is a record of my Python learning journey — from basics to advanced.**
